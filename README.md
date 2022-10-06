@@ -2,7 +2,6 @@
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
-- Learn how to create your own API using Python
 - Learn how to create your own Discord Bot using Python
 
 
@@ -17,7 +16,7 @@
 
 <h3>Project Must Include</h3>
 
-- Either Uses Flask or discordpy (API or Discord Bot)
+- Must be a Discord Bot
 - Minimum of 1 list or dictionary variable
 - Minimum of 3 statements (if, elif, else)
 - Minimum of 2 for loops and 1 while loop
